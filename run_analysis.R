@@ -61,3 +61,5 @@ meanSet <- aggregate(.~ id + activity,data=allSet,FUN=mean)
 
 write.table(meanSet,file="output.txt", row.names=FALSE) # write secondary 'means' table
 
+codebook(meanSet)
+
