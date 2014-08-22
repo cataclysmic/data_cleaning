@@ -15,6 +15,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 - 'activity' = subject's acitivity at time of measurement
 - all further variables are means of subjects and the respective activity*
 
-* Variable names correspond to previous names after removal of all non-numeric character. See original codebook (codebook_orig.md) for variable definition.
+* Variable names correspond to previous names after removal of all non-numeric character. See original, reduced codebook (codebook_orig.md) for variable definition. 
 
 #####################################################
